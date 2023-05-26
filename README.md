@@ -1,3 +1,5 @@
+NODE JS v17.9.1
+
 # CRUD Nodejs and Mysql
 this is a basic application crud that uses nodejs in the backend, mysql as database.
 
